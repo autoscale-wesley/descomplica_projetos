@@ -1,0 +1,23 @@
+
+header {
+    background-image: url('https://via.placeholder.com/1920x600');
+    background-size: cover;
+    background-position: center;
+}
+
+h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+#sobre {
+    padding: 40px 0;
+}
+
+#servicos .card {
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #333;
+}
